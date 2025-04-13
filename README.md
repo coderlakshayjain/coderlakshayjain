@@ -10,12 +10,18 @@
 
 ##  🛠 Tech Stack
 
-<p align="center"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/android-icon.svg" alt="Android" width="56" height="56"/>  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kotlin-icon.svg" alt="Kotlin" width="52" height="52"/><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg" alt="java" width="56" height="56"/>
- <img src="https://raw.githubusercontent.com/kartiksharmakk/kartiksharmakk/main/tensorflow.svg" alt="tensorflow" width="56" height="56"/>
- <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg" alt="Python" width="56" height="56"/> 
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c.svg" alt="c" width="56" height="56"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-plusplus.svg" alt="cplusplus" width="56" height="56"/>
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/firebase.svg" alt="Firebase" width="56" height="56"/> 
- 
+<p align="center">
+ <img src="https://github.com/coderlakshayjain/coderlakshayjain/blob/main/android-icon.svg" alt="Android" width="56" height="56"/>  
+ <img src="https://github.com/coderlakshayjain/coderlakshayjain/blob/main/kotlin-icon.svg" alt="Kotlin" width="52" height="52"/>
+ <img src="https://github.com/coderlakshayjain/coderlakshayjain/blob/main/c-plusplus.svg" alt="cplusplus" width="56" height="56"/>
+ <img src="https://github.com/coderlakshayjain/coderlakshayjain/blob/main/python.svg" alt="Python" width="56" height="56"/> 
+
+ <img src="https://github.com/coderlakshayjain/coderlakshayjain/blob/main/figma.svg" alt="Figma" width="56" height="56"/>
+ <img src="https://github.com/coderlakshayjain/coderlakshayjain/blob/main/google-play-console-icon.svg" alt="GoooglePlay" width="56" height="56"/>  
+ <img src="https://github.com/coderlakshayjain/coderlakshayjain/blob/main/google-admob.svg" alt="AdMob" width="56" height="56"/>
+ <img src="https://github.com/coderlakshayjain/coderlakshayjain/blob/main/google-play-icon.svg" alt="playdtore" width="56" height="56"/>
+ <img src="https://github.com/coderlakshayjain/coderlakshayjain/blob/main/gradle.svg" alt="gradle" width="56" height="56"/>
+ <img src="https://github.com/coderlakshayjain/coderlakshayjain/blob/main/firebase.svg" alt="Firebase" width="56" height="56"/> 
  </p>
 
 <div align="center">
