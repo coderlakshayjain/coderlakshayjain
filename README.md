@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Lakshay Jain</h1>
+<h1 align="center">Hi <img src="https://github.com/coderlakshayjain/coderlakshayjain/blob/main/Hi.gif" width="29px">, I'm Lakshay Jain</h1>
 <h3 align="center">A Passionate Software Developer</h3>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartiksharmakk&label=Profile%20views&color=53bb1b&style=flat-square" alt="kartiksharmakk" /> </p> -->
 
