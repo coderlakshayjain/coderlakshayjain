@@ -27,7 +27,9 @@
 
 <div align="center">
 </p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=coderlakshayjain&show_icons=true&locale=en&layout=compact&hide=purebasic,html,cmake" alt="coderlakshayjain"/></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=coderlakshayjain&show_icons=true&locale=en&layout=compact&hide=purebasic,html,cmake" alt="coderlakshayjain" />
+</p>
 </div> 
 
  ## Connect🙌 With Me
