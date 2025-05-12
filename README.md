@@ -28,7 +28,7 @@
 <div align="center">
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=coderlakshayjain&show_icons=true&locale=en&layout=compact&hide=purebasic,html,cmake" alt="coderlakshayjain" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=coderlakshayjain&show_icons=true&locale=en&layout=compact" alt="coderlakshayjain" />
 </p>
 </div> 
 
