@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Software Developer</h3>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartiksharmakk&label=Profile%20views&color=53bb1b&style=flat-square" alt="kartiksharmakk" /> </p> -->
 
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="20px" /> I’m *currently* **sleeping** 😴 or *working* on my **laptop** 👨‍💻
+- <img alt="GIF" src="https://github.com/coderlakshayjain/coderlakshayjain/blob/main/wave.gif" width="20px" /> I’m *currently* **sleeping** 😴 or *working* on my **laptop** 👨‍💻
 -  🔭 I’m currently working on **Android , IoT and Machine Learning Projects**
 - 🌱 I’m currently learning **Deep Learning Concepts and Android**
 - 👨‍💻 All of my projects are available at [https://github.com/coderlakshayjain?tab=repositories](https://github.com/coderlakshayjain?tab=repositories)
