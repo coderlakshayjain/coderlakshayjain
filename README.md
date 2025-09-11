@@ -16,7 +16,7 @@
  <img src="https://github.com/coderlakshayjain/coderlakshayjain/blob/main/kotlin-icon.svg" alt="Kotlin" width="52" height="52"/>
  <img src="https://github.com/coderlakshayjain/coderlakshayjain/blob/main/c-plusplus.svg" alt="cplusplus" width="56" height="56"/>
  <img src="https://github.com/coderlakshayjain/coderlakshayjain/blob/main/python.svg" alt="Python" width="56" height="56"/> 
-
+ <img src="https://github.com/coderlakshayjain/coderlakshayjain/blob/main/python.svg" alt="Html" width="56" height="56"/> 
  <img src="https://github.com/coderlakshayjain/coderlakshayjain/blob/main/figma.svg" alt="Figma" width="56" height="56"/>
  <img src="https://github.com/coderlakshayjain/coderlakshayjain/blob/main/google-play-console-icon.svg" alt="GoooglePlay" width="56" height="56"/>  
  <img src="https://github.com/coderlakshayjain/coderlakshayjain/blob/main/google-admob.svg" alt="AdMob" width="56" height="56"/>
