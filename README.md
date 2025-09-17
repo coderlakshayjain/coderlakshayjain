@@ -5,7 +5,7 @@
 - <img alt="GIF" src="https://github.com/coderlakshayjain/coderlakshayjain/blob/main/wave.gif" width="20px" /> I’m *currently* **sleeping** 😴 or *working* on my **laptop** 👨‍💻
 -  🔭 I’m currently working on **Android , IoT and Machine Learning Projects**
 - 🌱 I’m currently learning **Deep Learning Concepts and Android**
-- 👨‍💻 All of my projects are available at [https://github.com/coderlakshayjain?tab=repositories](https://github.com/coderlakshayjain?tab=repositories)
+- 💬 Ask me about mobile, web, or anything random.
 - 👨‍💻 My [Digital Resume](https://drive.google.com/file/d/1eAn15C-Cw46GGD32cdh0sjFs1i67b1QW/view?usp=sharing) 
 - 📫 How to reach me **lakshayjainfzr@gmail.com**
 
