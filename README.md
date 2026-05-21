@@ -6,7 +6,7 @@
 -  🔭 I’m currently working on **Android , IoT and Machine Learning Projects**
 - 🌱 I’m currently learning **Deep Learning Concepts and Android**
 - 💬 Ask me about mobile, web, or anything random.
-- 👨‍💻 My [Digital Resume](https://drive.google.com/file/d/1eAn15C-Cw46GGD32cdh0sjFs1i67b1QW/view?usp=sharing) 
+- 👨‍💻 My [Digital Resume](https://drive.google.com/file/d/12x4RfGBainaD24mXQFfIoye6hb6Kj8_g/view?usp=sharing) 
 - 📫 How to reach me **lakshayjainfzr@gmail.com**
 
 ##  🛠 Tech Stack
